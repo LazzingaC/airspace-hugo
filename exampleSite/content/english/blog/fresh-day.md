@@ -7,7 +7,7 @@ description = "That's a new start"
 draft = true
 image = "/images/teams/team-2.jpg"
 tags = ["Tech"]
-title = "Fresh day"
+title = "Fresh Day"
 type = "post"
 
 +++
