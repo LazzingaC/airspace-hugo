@@ -1,15 +1,17 @@
 ---
 title: Game Night
 date: 2018-09-24T11:07:10.000+06:00
-author: John Doe
+author: Emma
 image: images/blog/blog-post-1.jpg
 bg_image: images/featue-bg.jpg
 categories:
+- Fun
 - Company News
 tags:
+- game
 - Advice
 - Technology
-description: this is meta description
+description: Meaningless Life, Interesting Game
 type: post
 
 ---
