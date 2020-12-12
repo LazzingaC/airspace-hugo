@@ -1,17 +1,18 @@
 ---
 title: How To Become a Chief
 date: 2020-12-12T18:07:10+00:00
-author: John Doe
+author: Lazzinga C.
 image: images/blog/blog-post-6.jpg
 bg_image: images/featue-bg.jpg
 categories:
+- cooking
 - Company News
 tags:
 - News
 - Retro
 - AI
 - Company
-description: this is meta description
+description: Something about Cook
 type: post
 
 ---
